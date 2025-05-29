@@ -119,6 +119,18 @@ A final-year IoT-based project integrating **GPS, GSM, and AI/ML** technologies 
 
 ---
 
+## 📚 References
+
+[1] G. Huang, T. R. Sheltami, and E. Shakshuki, “An efficient GPS navigation system with context-based vehicular road network prediction using machine learning,” *IEEE Access*, vol. 9, pp. 79897–79909, 2021. doi: [10.1109/ACCESS.2021.3084512](https://doi.org/10.1109/ACCESS.2021.3084512).
+
+[2] S. Anwar and P. M. D. J. Junior, “A comprehensive study on the integration of machine learning algorithms in IoT-based GPS tracking systems,” *IEEE Internet of Things Journal*, vol. 8, no. 3, pp. 2035–2045, Feb. 2021. doi: [10.1109/JIOT.2020.3004239](https://doi.org/10.1109/JIOT.2020.3004239).
+
+[3] J. Smith, L. Brown, and Y. Liu, “Design and implementation of a low-power GPS tracking system with real-time data processing,” *IEEE Transactions on Industrial Electronics*, vol. 68, no. 4, pp. 3212–3222, Apr. 2021. doi: [10.1109/TIE.2020.2999415](https://doi.org/10.1109/TIE.2020.2999415).
+
+[4] R. Al-Ali, M. A. Z. Othman, and R. Al-Ali, “Secure and energy-efficient multipurpose GPS tracking system with cloud integration,” *IEEE Transactions on Consumer Electronics*, vol. 66, no. 4, pp. 398–405, Nov. 2020. doi: [10.1109/TCE.2020.3026141](https://doi.org/10.1109/TCE.2020.3026141).
+
+----
+
 ## 🔧 Code Snippet (Firebase Integration & SMS)
 
 ```cpp
