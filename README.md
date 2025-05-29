@@ -57,6 +57,17 @@ A final-year IoT-based project integrating **GPS, GSM, and AI/ML** technologies 
 ### 🔧 Real Project Prototype
 ![Prototype](https://github.com/hawkharsh1/Intelligent-Multipurpose-GPS-Tracker/blob/main/GPS.png?raw=true)
 
+---
+
+### 🔧 Real Project Prototype
+![Mobile Interface Communication](https://github.com/hawkharsh1/Intelligent-Multipurpose-GPS-Tracker/blob/main/Con.png?raw=true)
+
+---
+
+### 🔧 Real Project Prototype
+![Schematic](https://github.com/hawkharsh1/Intelligent-Multipurpose-GPS-Tracker/blob/main/CircuitDiagram.png?raw=true)
+
+----
 
 ## 🔧 Code Snippet (Firebase Integration & SMS)
 
